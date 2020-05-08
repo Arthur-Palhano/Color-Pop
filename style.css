@@ -1,0 +1,54 @@
+body{
+margin: .5%;
+background-color: rgb(22, 22, 22);
+color: rgb(233, 233, 233);
+font-family: 'Jost', sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    background-color: rgb(22, 22, 22);
+    padding: 1%;
+    width: 45%;
+    margin-top: 20vh;
+    border-left: double 1pc rgb(228, 220, 155);
+    border-bottom: double 1pc rgb(228, 220, 155);
+    border-top: solid 1pc rgb(228, 220, 155);
+    border-right: solid 1pc rgb(228, 220, 155);
+}
+
+.screen {
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 95.5%;
+    height: 15vh;
+    background-color: rgb(22, 22, 22);
+}
+
+#score {
+    font-size: 1pc;
+    margin: 0;
+    text-align: left;
+    float: left;
+}
+
+#rgbCol {
+    line-height: 1px;
+    text-align: center;
+    font-size: 4pc;
+}
+
+.opt {
+    margin-top: 10px;
+    flex-direction: row;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.box {
+    width: 30%;
+    margin: 0 auto;
+    height: 15vh;
+    border-radius: 0 100px 100px 100px;
+}
