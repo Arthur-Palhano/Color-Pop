@@ -24,7 +24,7 @@
 
 ## License
 
-[MIT](https://github.com/Arthur-Palhano/Color-Pop/blob/master/LICENSE)
+[GNU Affero General Public License v3.0](https://github.com/Arthur-Palhano/Color-Pop/blob/master/LICENSE)
 
 ---
 
