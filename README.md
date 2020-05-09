@@ -7,7 +7,7 @@
 ### The color pattern is RGB, i make this project with HTML5, CSS3 and JavaScript.
 
 ## A little preview
-[Play here](https://arthur-palhano.github.io/Color.io/colorio.html)
+# [**Play here**](https://arthur-palhano.github.io/Color.io/colorio.html)
 ![image](https://user-images.githubusercontent.com/49375534/81453035-e6999680-915e-11ea-97f1-83d3d3e2af85.png)
 
 ## How will this help you?
